@@ -1,0 +1,66 @@
+{
+  "author": {
+    "name": "Omar",
+    "lastName": "Garcia"
+  },
+  "categories": [
+    "MLA411116",
+    "MLA411117",
+    "MLA411116",
+    "MLA411117"
+  ],
+  "items": [
+    {
+      "id": "MLA690647508",
+      "title": "Nuevo Apple Iphone X 64gb Original Garantia 1 Año !!",
+      "price": {
+        "currency": "ARS",
+        "amount": 54997,
+        "decimals": 0
+      },
+      "picture": "http://mla-s1-p.mlstatic.com/950417-MLA27061282401_032018-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "address": "capital federal"
+    },
+    {
+      "id": "MLA690535156",
+      "title": "Apple Iphone X 256gb Face Id Oled Silver Envios Todo El Pais",
+      "price": {
+        "currency": "ARS",
+        "amount": 78169.99,
+        "decimals": 99
+      },
+      "picture": "http://mla-s1-p.mlstatic.com/921765-MLA26413243122_112017-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "address": "Palermo"
+    },
+    {
+      "id": "MLA750016689",
+      "title": "Apple Iphone Xs Max 64gb Sellados Gtia Oficial",
+      "price": {
+        "currency": "ARS",
+        "amount": 68300,
+        "decimals": 0
+      },
+      "picture": "http://mla-s2-p.mlstatic.com/770249-MLA28239474215_092018-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "address": "Capital Federal"
+    },
+    {
+      "id": "MLA609909102",
+      "title": "Apple Iphone  X 256gb 5.8  Nuevo Modelo Factura A O B !!",
+      "price": {
+        "currency": "ARS",
+        "amount": 59998,
+        "decimals": 0
+      },
+      "picture": "http://mla-s1-p.mlstatic.com/841096-MLA27061268123_032018-I.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "address": "capital federal"
+    }
+  ]
+}
